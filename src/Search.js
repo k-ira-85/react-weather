@@ -37,7 +37,7 @@ export default function Search(props) {
   }
 
   let form = (
-    <form className="searchform" onSubmit={handleSubmit} action="">
+    <form className="searchform col-9" onSubmit={handleSubmit} action="">
       <input
         className="enter"
         id="search-city"
@@ -46,7 +46,7 @@ export default function Search(props) {
         placeholder="Type a city..."
         autoComplete="off"
       />
-      <input className="enter-button col-9"  type="submit" value="Search" />
+      <input className="enter-button col-3"  type="submit" value="Search" />
     </form>
   );
 
