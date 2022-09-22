@@ -20,13 +20,13 @@ export default function App() {
           <small>
             <a
               id="source-code"
-              href="https://github.com/BilousovaOlena/react-app"
+              href="https://github.com/k-ira-85/react-weather"
               target="_blank"
               rel="noreferrer"
             >
               Open-sourse code
             </a>
-            &nbsp; by Olena Bilousova
+            &nbsp; by Iryna Kravchenko
           </small>
         </div>
       </div>
