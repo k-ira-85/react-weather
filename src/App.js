@@ -9,7 +9,7 @@ export default function App() {
       <div className="container">
         <div className="wrapper">
           <div className="form" id="all-frame">
-            <Search cityDefault="Toronto" />
+            <Search cityDefault="Kyiv" />
 
             <div className="card weatherDisplay">
               <div className="card-body forecast-card">
