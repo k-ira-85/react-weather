@@ -46,7 +46,7 @@ export default function Search(props) {
         placeholder="Type a city..."
         autoComplete="off"
       />
-      <input className="enter-button" type="submit" value="Search" />
+      <input className="enter-button col-9"  type="submit" value="Search" />
     </form>
   );
 
