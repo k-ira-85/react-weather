@@ -1,4 +1,5 @@
-body {background-image: (cloud-bg.jpg);
+body {
+  background-image: url(./cloud-bg.jpg);
 }
   
 .wrapper {
