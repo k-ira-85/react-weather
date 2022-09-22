@@ -42,7 +42,7 @@ h1 {
 }
 .enter {
   border: 2px solid rgb(156, 196, 243);
-  display: block;
+  display: inline-block;
   padding: 0.375rem 0.75rem;
   width: 300px;
   font-size: 1rem;
