@@ -33,6 +33,12 @@ h1 {
   list-style-type: none;
   padding: 0;
 }
+#city-name {
+  color: #6C7592;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+}
 .enter {
   width: 50%;
   border: none;
